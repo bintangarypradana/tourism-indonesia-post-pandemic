@@ -6,6 +6,7 @@
 
 # Sumber
 - 📑 [Presentation Deck](https://drive.google.com/file/d/1t6BFoO2vNNxzxO6h8w91V9NS0xKcCrTn/view)
+- 📈 [Dashboard](https://tourism-indonesia-post-pandemic.streamlit.app/)
 
 ## A. Pendahuluan
 Mengutip dari [*Forbes*](https://www.forbes.com/sites/laurabegleybloom/2022/02/22/the-worlds-50-most-beautiful-countries-you-wont-believe-where-the-us-ranked/?sh=6a5e6e73389a) (2022), Indonesia diakui sebagai negara paling indah di dunia dengan skor keindahan alam 7.77 dari 10. Keberagaman destinasi wisata dan keindahan alamnya menjadi daya tarik yang luar biasa. Namun, di balik pesona alamnya, sektor pariwisata Indonesia menghadapi tantangan dan potensi yang perlu diamati dengan cermat. Sehingga perlu ditinjau lebih dalam, mengenai kontribusinya terhadap ekonomi, jumlah kunjungan wisatawan, dan lainnya. Dengan ini, diharapkan kita dapat mengetahui potensi dan prospek sektor pariwisata Indonesia di masa yang akan datang.
